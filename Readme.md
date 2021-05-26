@@ -1,5 +1,6 @@
 # Ad Blocker
 ## Chrome Extension
+## Made By Sharif Jameel
 
 ---
 > Very Easy To Use
@@ -20,7 +21,14 @@
 
 ---
 
-[Click This Link To Go in Extension Page Assuming You Have Chrome](chrome://extensions)
+```
+
+chrome://extensions
+
+
+copy This And Paste This Url Assuming You Chrome
+
+```
 
 ---
 
@@ -55,9 +63,19 @@
 
 
 ---
-> How To Disable Ad Block
 
-[Click This Link To Go in Extension Page Assuming You Have Chrome](chrome://extensions)
+> How To Disable Extension
+
+---
+
+```
+
+chrome://extensions
+
+
+copy This And Paste This Url Assuming You Chrome
+
+```
 
 ---
 
@@ -70,11 +88,18 @@
 ---
 
 
-> How To Remove Ad Block
+> How To Remove Extension
 
 ---
 
-[Click This Link To Go in Extension Page Assuming You Have Chrome](chrome://extensions)
+```
+
+chrome://extensions
+
+
+copy This And Paste This Url Assuming You Chrome
+
+```
 
 ---
 
@@ -95,3 +120,6 @@
 ---
 
 ### Then Click Remove After That You Have Removed Extension Successfully
+
+
+### 
