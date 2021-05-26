@@ -1,0 +1,10 @@
+{
+    "name": "SharifCodes Adblocker",
+    "version": "1.0",
+    "description": "AdBlocker By Sharif Codes",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["adblocker.js"]
+    },
+    "manifest_version": 2
+}
