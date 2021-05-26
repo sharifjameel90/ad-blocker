@@ -24,7 +24,7 @@
 
 ---
 
-![First Step]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/Step%201.png")
+![First Step]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/Step1.png")
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-![Second Step]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/Step%202.png")
+![Second Step]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/Step2.png")
 
 ---
 
@@ -43,7 +43,7 @@
 #### After That You Will See Somthing Like This
 
 ---
-![Extension Image]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/Extension.png")
+![Extension Image]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/Extension.png")
 
 ---
 #### Note: That Version Might Be Changed When We Do A Update And The Id Might Also Be Changed.
@@ -61,7 +61,7 @@
 
 ---
 
-![Extension Image]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/Extension.png")
+![Extension Image]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/Extension.png")
 
 ---
 
@@ -78,7 +78,7 @@
 
 ---
 
-![Extension Image]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/Extension.png")
+![Extension Image]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/Extension.png")
 
 ---
 
@@ -90,7 +90,7 @@
 
 ---
 
-![Popup Image]("https://github.com/sharifjameel90/ad-blocker/blob/main/images/RemoveExt.png")
+![Popup Image]("https://raw.githubusercontent.com/sharifjameel90/ad-blocker/main/images/RemoveExt.png")
 
 ---
 
