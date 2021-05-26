@@ -26,7 +26,7 @@
 chrome://extensions
 
 
-copy This And Paste This Url Assuming You Chrome
+copy This And Paste This Url Assuming You Have Chrome
 
 ```
 
@@ -73,7 +73,7 @@ copy This And Paste This Url Assuming You Chrome
 chrome://extensions
 
 
-copy This And Paste This Url Assuming You Chrome
+copy This And Paste This Url Assuming You Have Chrome
 
 ```
 
@@ -97,7 +97,7 @@ copy This And Paste This Url Assuming You Chrome
 chrome://extensions
 
 
-copy This And Paste This Url Assuming You Chrome
+copy This And Paste This Url Assuming You Have Chrome
 
 ```
 
